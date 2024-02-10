@@ -27,9 +27,9 @@ Users should be able to:
 ### Screenshot
 
 ![Home](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/b5ed57ae-213b-4caf-b45a-b54ae63456fc)
-![Projects](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/a0b53cda-9083-4fec-a9f3-d7054e8ba206)
-![Services](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/7ac4ccc8-aea1-4eb7-9fc3-1402639ac1f2)
 ![About](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/1b410e79-258f-44a9-b0ed-8b81add14311)
+![Services](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/7ac4ccc8-aea1-4eb7-9fc3-1402639ac1f2)
+![Projects](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/a0b53cda-9083-4fec-a9f3-d7054e8ba206)
 ![Contact](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/b26864b8-3609-4323-bad7-cf3144e8eb21)
 
 
