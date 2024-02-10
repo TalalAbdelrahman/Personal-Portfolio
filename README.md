@@ -26,9 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 2022-04-23 at 16-28-59 Netflix Home Page](https://user-images.githubusercontent.com/96676832/164891854-9998761a-70d4-4ba5-b483-134efa8240f8.png)
-
-![Screenshot 2022-04-23 at 16-29-24 Netflix Login Page](https://user-images.githubusercontent.com/96676832/164891863-4f95684d-79ce-49b8-b77a-aca37c34abb4.png)
+![Home](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/b5ed57ae-213b-4caf-b45a-b54ae63456fc)
+![Projects](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/a0b53cda-9083-4fec-a9f3-d7054e8ba206)
+![Services](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/7ac4ccc8-aea1-4eb7-9fc3-1402639ac1f2)
+![About](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/1b410e79-258f-44a9-b0ed-8b81add14311)
+![Contact](https://github.com/TalalAbdelrahman/Personal-Portfolio/assets/145807659/b26864b8-3609-4323-bad7-cf3144e8eb21)
 
 
 ### Demo
